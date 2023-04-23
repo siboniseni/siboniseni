@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siboniseni&label=Profile%20views&color=0e75b6&style=flat" alt="siboniseni" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@siboniseni_kasa" target="blank"><img src="https://img.shields.io/twitter/follow/@siboniseni_kasa?logo=twitter&style=for-the-badge" alt="@siboniseni_kasa" /></a> </p>
 
 - 🔭 I’m currently working on [my dj website](https://github.com/siboniseni/my_projects/tree/master/my%20dj)
 
