@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Siboniseni</h1>
 <h3 align="center">A passionate frontend developer from South Africa India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr7YJ66omN8HUqcsZCNfSkyBpP3NZgydZ0Gw&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr7YJ66omN8HUqcsZCNfSkyBpP3NZgydZ0Gw&usqp=CAU.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siboniseni&label=Profile%20views&color=0e75b6&style=flat" alt="siboniseni" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@siboniseni_kasa" target="blank"><img src="https://img.shields.io/twitter/follow/@siboniseni_kasa?logo=twitter&style=for-the-badge" alt="@siboniseni_kasa" /></a> </p>
 
-- 🔭 I’m currently working on **my dj website**
+- 🔭 I’m currently working on [my dj website](https://github.com/siboniseni/my_projects/tree/master/my%20dj)
 
 - 🌱 I’m currently learning **ALX Software Engineering, CS50’s Introduction to Computer Science, Ordin Project**
 
@@ -18,6 +18,8 @@
 <p align="left">
 <a href="https://twitter.com/@siboniseni_kasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@siboniseni_kasa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/siboniseni-kasa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siboniseni-kasa/" height="30" width="40" /></a>
+<a href="https://fb.com/kasa gileni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kasa gileni" height="30" width="40" /></a>
+<a href="https://instagram.com/kasa_gileni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kasa_gileni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
