@@ -4,12 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siboniseni&label=Profile%20views&color=0e75b6&style=flat" alt="siboniseni" /> </p>
 
-
-- 🔭 I’m currently working on [my dj website](https://github.com/siboniseni/my_projects/tree/master/my%20dj)
+- 👨‍💻 Check my PORTFOLIO WEBSITE [https://siboniseni.github.io/)
 
 - 🌱 I’m currently learning **ALX Software Engineering, CS50’s Introduction to Computer Science, Ordin Project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/siboniseni/my_projects](https://github.com/siboniseni/my_projects)
 
 - 📫 How to reach me **siboniseni.kasa@outlook.com**
 
