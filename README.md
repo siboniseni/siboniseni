@@ -6,7 +6,7 @@
 
 - 👨‍💻 Check my PORTFOLIO WEBSITE [https://siboniseni.github.io/)
 
-- 🌱 I’m currently learning **ALX Software Engineering, CS50’s Introduction to Computer Science, Ordin Project**
+- 🌱 
 
 - 📫 How to reach me **siboniseni.kasa@outlook.com**
 
