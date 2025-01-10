@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siboniseni&label=Profile%20views&color=0e75b6&style=flat" alt="siboniseni" /> </p>
 
-- 👨‍💻 Check my PORTFOLIO WEBSITE [https://siboniseni.github.io/)
+- 👨‍💻 Check my PORTFOLIO WEBSITE [https://siboniseni.github.io/new-portfolio-site/)
 
 - 🌱 
 
